@@ -295,6 +295,9 @@ public class uCard {
             System.out.println("Obese " + bmi);
         } 
     }
+    public void crap_game(){
+        
+    }
     // Bracket for printout
     public void bracket(){
         System.out.println("--------------------------------------");
