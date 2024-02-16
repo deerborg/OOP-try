@@ -18,6 +18,7 @@ public class Main {
         testerValue.age(int year);
         testerValue.birthDay(int year, int month, int day);
         testerValue.horoscope(int day, int month);
+        testerValue.crap_game();
      */  
     }
 }
