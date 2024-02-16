@@ -48,6 +48,7 @@ public class uCard {
         bracket();
         System.out.println("BMI calculation: exmaple.bmi_calculation() -- It calculates the bmi values ");
         bracket();
+        System.out.println("Craps Game example.craps_game() -- Code throws random 4 dices and decides the winner and loser according to the rules.");
     }
     // Method to create profile card, saves the given information. And it prints out the info
     public void create_card(){
