@@ -365,6 +365,7 @@ public class uCard {
             } else{
                 System.out.println("Spent dices. No winners or losers.");
             }
+
         }
         }
     }
