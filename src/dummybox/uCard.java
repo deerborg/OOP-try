@@ -28,6 +28,7 @@ public class uCard {
     private double radius;
     private double kilogram;
     private double height;
+    private int crapGame;
     
     // Program usege
     public void information(){
