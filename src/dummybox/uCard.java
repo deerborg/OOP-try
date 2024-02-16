@@ -2,6 +2,7 @@
 package dummybox;
 import java.util.Scanner;
 /**
+ *@author Ahmet Batuhan YÜRÜDÜR, byurudur
  * @author Furkan Aydemir, deerborg
  * @since 2024
  */
@@ -27,6 +28,7 @@ public class uCard {
     private double radius;
     private double kilogram;
     private double height;
+    private int crapGame;
     
     // Program usege
     public void information(){
@@ -297,12 +299,6 @@ public class uCard {
         } 
     }
     public void crap_game(){
-        /**
-         * @author Ahmet Batuhan YÜRÜDÜR, byurudur
-         * 2024
-         */
-
-        public class Main { public static void main(String[] args) {
 
             //Explaining the craps game to the user.
 
