@@ -86,7 +86,8 @@ public class uCard {
         }
         System.out.println("I think I know your zodiac sign. I will use this when creating your personal card.");
         System.out.println("There should be information density in this card. Can you write what your hobbies are?");
-        hobbies = value.nextLine();
+        Scanner habbiesValue = new Scanner(System.in);
+        this.hobbies = hobbiesValue.nextLine();
         System.out.println("What are you working on right now? For example, I am learning Java.");
         this.status = value.nextLine();
         System.out.println("I'm creating your card... I'm working on it... I think I'm succeeding!");
