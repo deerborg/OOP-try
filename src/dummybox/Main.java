@@ -8,7 +8,7 @@ package dummybox;
 public class Main {
     // Try the methods
     public static void main(String[] args) {
-        uCard testerValue = new uCard(); 
+        uCard testerValue = new uCard();
       /*
         testerValue.information();
         testerValue.create_card();
@@ -18,7 +18,9 @@ public class Main {
         testerValue.age(int year);
         testerValue.birthDay(int year, int month, int day);
         testerValue.horoscope(int day, int month);
-        testerValue.crap_game();
-     */  
+        testerValue.crapsGame();
+     */
+
+        testerValue.crapsGame();
     }
 }
